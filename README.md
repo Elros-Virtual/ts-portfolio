@@ -1,2 +1,2 @@
-# ts-hobby
-This repo contains the code for Toby Sykes' hobby website.
+# ts-portfolio
+This repo contains the code for Toby Sykes' portfolio website.
