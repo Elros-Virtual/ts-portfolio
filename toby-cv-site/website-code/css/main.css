@@ -1,0 +1,26 @@
+a {
+    color: #32a89e;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#327fa8;
+}
+
+#novideo {
+    display: none;
+}
+
+#homescreen-img {
+    opacity: 0.5;
+}
+
+@media screen and (max-width:800px){
+    #videos {
+        display: none;
+    }
+
+    #novideo {
+        display: block;
+    }
+}
