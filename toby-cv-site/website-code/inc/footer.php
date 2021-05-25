@@ -6,7 +6,7 @@
         <div class="card-body">
             <p class="card-text">
             <a href="https://www.linkedin.com/in/tersykes/" target="_blank" rel="noopener">linkedin</a> | 
-            <a href="https://www.youtube.com/channel/UCbykr6kdHWCE8jLjUqrw0Jw" target="_blank" rel="noopener">youtube</a>
+            <a href="https://www.youtube.com/c/tobz0r" target="_blank" rel="noopener">youtube</a>
             </p>
         </div>
         <div class="card-footer text-muted">
